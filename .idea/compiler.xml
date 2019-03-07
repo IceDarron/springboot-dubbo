@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="dubbo-consumer" />
         <module name="dubbo-interface" />
+        <module name="dubbo-provider" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
